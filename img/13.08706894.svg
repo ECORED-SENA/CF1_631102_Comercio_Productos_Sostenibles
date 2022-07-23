@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="610" height="149" viewBox="0 0 610 149">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_292184" data-name="Rectángulo 292184" width="25.759" height="115.87" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_873843" data-name="Grupo 873843" transform="translate(9246 8733)">
+    <g id="Grupo_871936" data-name="Grupo 871936" transform="translate(-9846 -11363)">
+      <rect id="Rectángulo_292180" data-name="Rectángulo 292180" width="610" height="149" transform="translate(600 2630)" fill="#fff" opacity="0.5"/>
+      <text id="_Valores._Personalidad._Estilo_de_vida._Clase_social" data-name="● Valores.
+● Personalidad.
+● Estilo de vida.
+● Clase social" transform="translate(649 2658)" fill="#ea3584" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">●</tspan><tspan y="17" xml:space="preserve" fill="#12263f" font-family="Roboto-Regular, Roboto"> Valores.</tspan><tspan x="0" y="39">●</tspan><tspan y="39" xml:space="preserve" fill="#12263f" font-family="Roboto-Regular, Roboto"> Personalidad.</tspan><tspan x="0" y="61">●</tspan><tspan y="61" xml:space="preserve" fill="#12263f" font-family="Roboto-Regular, Roboto"> Estilo de vida.</tspan><tspan x="0" y="83">●</tspan><tspan y="83" xml:space="preserve" fill="#12263f" font-family="Roboto-Regular, Roboto"> Clase social</tspan></text>
+      <text id="Determinan_el_comportamiento_del_consumidor." data-name="Determinan el comportamiento
+del consumidor." transform="translate(863 2684)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Determinan el comportamiento</tspan><tspan x="0" y="37">del consumidor.</tspan></text>
+      <g id="Grupo_871934" data-name="Grupo 871934" transform="translate(797.121 2643)">
+        <g id="Grupo_871933" data-name="Grupo 871933" clip-path="url(#clip-path)">
+          <path id="Trazado_217914" data-name="Trazado 217914" d="M2.655,0a2.656,2.656,0,0,0,0,5.31h7.964V51.354l7.426,7.013L10.618,65.38v45.18H2.655a2.655,2.655,0,1,0,0,5.31H15.928V67.651l9.831-9.284-9.831-9.284V0Z" transform="translate(0)" fill="#ea3584" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
