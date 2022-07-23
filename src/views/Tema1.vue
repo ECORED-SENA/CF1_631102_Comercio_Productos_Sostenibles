@@ -185,7 +185,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/25.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0(data-aos="fade-up") Cuando se habla de posicionamiento, no es más que el reconocimiento positivo de los productos o marca de una empresa en la mente de sus clientes reales y potenciales, en otras palabras, cuando el consumidor final desea adquirir un producto o servicio, se le viene primero a la cabeza la marca o producto que está posicionado para satisfacer su necesidad.
+        p.mb-0(data-aos="fade-up") #[strong Cuando se habla de posicionamiento, no es más que el reconocimiento positivo de los productos o marca de una empresa en la mente de sus clientes reales y potenciales, en otras palabras, cuando el consumidor final desea adquirir un producto o servicio, se le viene primero a la cabeza la marca o producto que está posicionado para satisfacer su necesidad.]
 
     p.mt-5(data-aos="fade-up") El #[strong #[em marketing mix]], las estrategias de mercadeo, el análisis DOFA, entre otras herramientas, están encaminadas al logro del posicionamiento de los productos y la marca de la empresa en un sector determinado; a partir de estas, se desglosan los factores particulares que aportan a la resolución de la pregunta ¿a dónde va la empresa?, ¿en cuánto tiempo desea abarcar una zona?, si se desea avanzar a ser una empresa internacionalizada, y todos los demás factores que aporten al crecimiento y desarrollo sostenible.
 
@@ -258,7 +258,7 @@
 
       .row
         .col-md-7.mb-4.mb-md-0(style="place-self:center")
-          p #[strong Variedad en productos:] esta estrategia principalmente se da en un sector donde existe una gran variedad de productos sustitutos, siguiendo la necesidad del sector, por ejemplo, marcas como Vélez han creado Nappa para poder competir en diversos nichos de mercado y llegarle a la población objetivo sin alterar las características de los productos ni su buen nombre, mediante una estrategia de diferenciación de marca y precio.
+          p #[strong Variedad en productos:] esta estrategia principalmente se da en un sector donde existe una gran variedad de productos sustitutos, siguiendo la necesidad del sector, por ejemplo, marcas como Vélez han creado #[em Nappa] para poder competir en diversos nichos de mercado y llegarle a la población objetivo sin alterar las características de los productos ni su buen nombre, mediante una estrategia de diferenciación de marca y precio.
         .col-md-5(style="place-self:center")
           figure
             img(src='@/assets/curso/tema1/34.png', alt='')
