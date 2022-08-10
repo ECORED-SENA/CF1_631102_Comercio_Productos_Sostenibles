@@ -28,7 +28,7 @@
         p.mt-4(data-aos="fade-up" style="position:relative") Siguiendo lo dicho anteriormente, se pretende mostrar la importancia de los clientes mayoristas en busca de prospectos efectivos donde se identifique el mercado a trabajar. Para ello, se estudia el mercado de interés, ubicando fuentes de prospectos que identifiquen posibles fuentes de información. 
       .col-md-6
         p(data-aos="fade-up" style="position:relative") Por consiguiente, el aporte al tema de acuerdo con la experiencia y conocimiento académico se desarrollará de manera sucinta, donde se tendrán en cuenta las diferentes posturas de autores expertos que aporten al desarrollo de la temática propuesta. De igual manera, el texto pretende ser una introducción a todos aquellos que estén interesados en conocer ciertas herramientas para la gestión del talento humano y la potencialización de las habilidades en el acceso a la información.
-        p.mt-4(data-aos="fade-up" style="position:relative") Considerando lo anterior, es posible plantear problemas e interrogantes acerca de los preceptos mercantiles y los métodos o modos utilizados por el mercado y el marketing que permiten el correcto enfoque metodológico. Al tratarse de un tema de mercadeo se busca simplemente hacer un acercamiento a las problemáticas planteadas.
+        p.mt-4(data-aos="fade-up" style="position:relative") Considerando lo anterior, es posible plantear problemas e interrogantes acerca de los preceptos mercantiles y los métodos o modos utilizados por el mercado y el #[em marketing] que permiten el correcto enfoque metodológico. Al tratarse de un tema de mercadeo se busca simplemente hacer un acercamiento a las problemáticas planteadas.
 
       .col-md-10.m-auto.mt-5
         figure.text-center(style="border-bottom:4px #EA3584 solid;position:relative")
@@ -131,6 +131,7 @@
           div(x="86%" y="73%" tooltip="Clientes internos" numero="+")
             figure
               img(src="@/assets/curso/tema2/19.svg")
+        figcaption.mt-3(style="font-weight:500;position:relative") (Masiow, 2000, p. 86)
 
     br
     figure.mt-5
@@ -142,11 +143,11 @@
       .col-md-8
         p(data-aos="fade-up") Conocer las necesidades de la clientela se vuelve una herramienta clave para la empresa, ya que genera experiencias mucho más positivas para el consumidor al satisfacer sus expectativas, lo que a su vez le obliga a tener una mayor lealtad a la marca. De la siguiente manera, los distintos productos y servicios que brinda una compañía permiten identificar los tipos de necesidades, teniendo en cuenta lo descrito por (Silva, 2021):
         TabsA.color-acento-botones.mt-5
-          .tarjeta.color-primario.p-4(titulo="Productos accesibles")
+          .tarjeta.color-primario.p-4(titulo="Productos <br>accesibles")
             p Los clientes tienen una necesidad de que los productos y/o servicios estén dentro de su rango de presupuesto. Por lo general, #[strong(style="color:#EA3584;") los precios bajos atraen a todos los tipos de clientes], aunque una buena relación calidad-precio es esencial… si se compite con empresas que ofrecen productos similares, el precio es uno de los factores más importantes en la decisión de compra de un bien y/o servicio (Silva, 2021, p. 2).
-          .tarjeta.color-primario.p-4(titulo="Productos funcionales y eficientes")
+          .tarjeta.color-primario.p-4(titulo="Productos <br>funcionales y <br> eficientes")
             p Los clientes necesitan que el producto funcione de la manera adecuada para resolver sus problemas o deseos (Silva, 2021, p. 2).
-          .tarjeta.color-primario.p-4(titulo="Productos compatibles ")
+          .tarjeta.color-primario.p-4(titulo="Productos <br> compatibles")
             p El producto o servicio debe generar confianza,  ser eficiente y compatible con otros servicios y bienes dentro de los sectores similares para dar plena satisfacción a las necesidades de los clientes (Silva, 2021, p. 2).
       .col-md-4
         figure
@@ -207,7 +208,7 @@
           p.text-center(data-aos="zoom-in") La entrevista personal
       p.mt-4(data-aos="fade-up") No obstante, otras técnicas como las conversaciones telefónicas, los debates en público y las transcripciones de datos, permiten la recolección de datos que serán incluidos en la base a generar. Para el empleo de todos estos materiales es necesario conocer y manejar con habilidad las técnicas de comunicación.
 
-    p.mt-5(data-aos="fade-up") Los datos obtenidos y almacenados en las distintas bases de datos pueden ser organizados de manera cuantitativa y cualitativa, siendo estos las principales fuentes de información a la hora de consultar directamente con el cliente, siempre partiendo de la confianza y haciéndole entender que se está interesado en conocer sus demandas y opiniones y por su puesto respetando su derecho a la protección de datos.
+    p.mt-5(data-aos="fade-up") Los datos obtenidos y almacenados en las distintas bases de datos pueden ser organizados de manera cuantitativa y cualitativa, siendo estos las principales fuentes de información a la hora de consultar directamente con el cliente, siempre partiendo de la confianza y haciéndole entender que se está interesado en conocer sus demandas y opiniones y por supuesto respetando su derecho a la protección de datos.
 
     Separador
 
@@ -242,7 +243,7 @@
     figure.mt-5
       img(src="@/assets/curso/tema2/33.svg" data-aos="fade-up" style="max-width:450px;")
 
-    p.mt-4(data-aos="fade-up") Las empresas mayoristas emplean diferentes fuentes de información para desarrollar un sistema de búsqueda adecuado para cada situación en relación a la venta y de acuerdo al sector al cual pertenece. Para conocer más del tema puede consultar el libro Estrategias y técnicas de comunicación: una visión integrada en el marketing de Rodríguez (2011, pp. 98-99), quien menciona algunas fuentes de información que van desde:
+    p.mt-4(data-aos="fade-up") Las empresas mayoristas emplean diferentes fuentes de información para desarrollar un sistema de búsqueda adecuado para cada situación en relación a la venta y de acuerdo al sector al cual pertenece. Para conocer más del tema puede consultar el libro Estrategias y técnicas de comunicación: una visión integrada en el #[em marketing] de Rodríguez (2011, pp. 98-99), quien menciona algunas fuentes de información que van desde:
 
     .row.p-4.mt-4(style="border-radius:20px;background: rgb(235,227,249);background: linear-gradient(0deg, rgba(235,227,249,1) 0%, rgba(255,224,240,1) 100%);")
       .col-md-3(style="place-self:center")
@@ -272,9 +273,9 @@
     p.mt-5.text-center(data-aos="fade-up") Entre las herramientas más utilizadas en la prospección de clientes que las empresas mayoristas utilizan, se resaltan las siguientes:
 
     LineaTiempoD.color-primario.mt-5.col-md-10.m-auto
-      .row(numero="1" titulo="Software")
+      .row(numero="1" titulo="<em>Software</em>")
         .col-md-7
-          p Escoger un software que se adapte a las necesidades de la empresa y sector al cual pertenecen, hace parte primordial del proceso de prospectar un cliente de aquí parte el manejo y el análisis de datos que la empresa utilizara para esta tarea.
+          p Escoger un #[em software] que se adapte a las necesidades de la empresa y sector al cual pertenecen, hace parte primordial del proceso de prospectar un cliente de aquí parte el manejo y el análisis de datos que la empresa utilizara para esta tarea.
         .col-md-5
           figure
             img(src="@/assets/curso/tema2/35.png")
@@ -336,7 +337,9 @@
     .titulo-segundo
       h2#t_2_2 2.2  Servicio al cliente
 
-    p(data-aos="fade-up") El servicio al cliente es una herramienta de marketing, que se encarga de establecer puntos de contacto con los clientes a través de diferentes canales, para establecer relaciones con ellos, antes, durante y después de la venta. 
+    p(data-aos="fade-up") El servicio al cliente es una herramienta de #[em marketing], que se encarga de establecer puntos de contacto con los clientes a través de diferentes canales, para establecer relaciones con ellos, antes, durante y después de la venta. 
+
+    p.mt-4(data-aos="fade-up") Entre sus principales objetivos, se encuentran:
 
     .mt-5.col-md-8.m-auto
       figure

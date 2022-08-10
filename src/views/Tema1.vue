@@ -139,7 +139,7 @@
           .row(titulo="Sustancial")
             figure
               img(src="@/assets/curso/tema1/20.png")
-            p.mt-4 El segmento al que se apunta debe tener la capacidad de responder de manera económica a las inversiones que se realicen en él, en cuanto a estrategias de marketing y demás costes, para su correcto funcionamiento y sostenimiento de las empresas en el sector apuntado.
+            p.mt-4 El segmento al que se apunta debe tener la capacidad de responder de manera económica a las inversiones que se realicen en él, en cuanto a estrategias de #[em marketing] y demás costes, para su correcto funcionamiento y sostenimiento de las empresas en el sector apuntado.
           .row(titulo="Accesible")
             figure
               img(src="@/assets/curso/tema1/21.png")
@@ -201,7 +201,7 @@
 
       figure.mt-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/6KXhh7GsWro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .col-md-8.m-auto.mt-5.p-4.text-center(style="background-color:#FFE0F0;border-radius:150px;")
       p.mb-0(data-aos="fade-up") Para posicionar un producto en el mercado, se requiere seguir los siguientes pasos:
