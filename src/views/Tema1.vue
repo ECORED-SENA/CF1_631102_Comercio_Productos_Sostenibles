@@ -158,9 +158,10 @@
 
     p.mt-5.text-center(data-aos="fade-up") Para conocer más sobre la segmentación del mercado se invita a revisar la videoclase que, a continuación, se relaciona:
 
+
     figure.mt-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/jYDNBsZ1UsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mt-4.col-md-10.m-auto.p-4(style="background-color:#EBE3F9;border-radius:17px;")
       .col-md-2(style="place-self:center")
@@ -169,7 +170,7 @@
       .col-md-7(style="place-self:center")
         p.mb-0(data-aos="fade-up") Como parte de su aprendizaje autónomo le invito a revisar el documento denominado #[strong #[em Marketing], versión para Latinoamérica,] el cual se encuentra en los materiales complementarios.
       .col-md-3.text-center(style="place-self:center")
-        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" type="application/pdf")
+        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Marketing.pdf')" target="_blank" type="application/pdf")
           span Descargar
           i.fas.fa-file-download
 
