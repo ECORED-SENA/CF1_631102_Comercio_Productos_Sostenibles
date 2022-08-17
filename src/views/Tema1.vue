@@ -231,7 +231,7 @@
       .row
         .col-md-7.mb-4.mb-md-0(style="place-self:center")
           h4 Atributos específicos del producto
-          p Es la estrategia que está orientada para su desarrollo producción y distribución de acuerdo con las necesidades del sector al que incursionan las empresas, por ejemplo, precios bajos o altos, calidad, rendimiento, compatibilidad o exclusividad.
+          p Es la estrategia que está orientada para su desarrollo, producción y distribución de acuerdo con las necesidades del sector al que incursionan las empresas, por ejemplo, precios bajos o altos, calidad, rendimiento, compatibilidad o exclusividad.
         .col-md-5(style="place-self:center")
           figure
             img(src='@/assets/curso/tema1/30.png', alt='')

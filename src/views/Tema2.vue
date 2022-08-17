@@ -376,7 +376,7 @@
               img(src='@/assets/curso/tema2/47.png' alt='' data-aos="zoom-in-up")
           p.text-center(data-aos="zoom-in") Llamada telefónica
 
-    p.mt-5(data-aos="fade-up") Sin embargo, hoy en día, se anexa un nuevo mundo, el virtual, por lo tanto, los tipos de servicios deben variar de acuerdo a la estrategia seguida por la empresa. Vale la pena mencionar que, de acuerdo con el sector y estructura de las empresas, pueden desarrollarse en conjunto las estrategias de acuerdo con los tipos de servicio ofrecidos por las mismas; en este orden de ideas, se puede describir de la siguiente manera los tipos de servicio que prestan las empresas, de acuerdo a su estrategia; a continuación se presenta un un video de ello:
+    p.mt-5(data-aos="fade-up") Sin embargo, hoy en día, se anexa un nuevo mundo, el virtual, por lo tanto, los tipos de servicios deben variar de acuerdo a la estrategia seguida por la empresa. Vale la pena mencionar que, de acuerdo con el sector y estructura de las empresas, pueden desarrollarse en conjunto las estrategias de acuerdo con los tipos de servicio ofrecidos por las mismas; en este orden de ideas, se puede describir de la siguiente manera los tipos de servicio que prestan las empresas, de acuerdo a su estrategia; a continuación se presenta un video de ello:
 
     .row.mt-5.cont_tema2_4.pt-5.pb-5(style="position:relative;")
       figure(style="position:relative")
