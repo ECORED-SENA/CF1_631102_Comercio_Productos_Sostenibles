@@ -326,7 +326,7 @@
         figure.text-center
           img(src="@/assets/curso/tema1/24.png" data-aos="fade-right" style="display:inline;max-width:80px;")
       .col-md-7(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Como parte de su aprendizaje autónomo, le invito a revisar el documento denominado #[strong Estrategia de marketing], el cual encuentra en el material complementario.
+        p.mb-0(data-aos="fade-up") Como parte de su aprendizaje autónomo, le invito a revisar el documento denominado #[strong Estrategia de #[em marketing]], el cual encuentra en el material complementario.
       .col-md-3.text-center(style="place-self:center")
         a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/estrategia_de_marketing.pdf')" target="_blank" type="application/pdf")
           span Descargar
